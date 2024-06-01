@@ -32,7 +32,6 @@ async def text_to_speech(text: str) -> str:
         model="text-to-speech"
     )
     return response["url"]
-
 @router.message()
 async def handle_voice_message(message: Message):
     voice = await message.voice.get_file()
