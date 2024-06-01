@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51a73b5a-24ff-4091-853d-d256ae01c315" name="Changes" comment="new files">
+    <list default="true" id="51a73b5a-24ff-4091-853d-d256ae01c315" name="Changes" comment="chaging in openai_api">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/handlers.py" afterDir="false" />
     </list>
@@ -54,7 +54,7 @@
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/GitHub/GPT4_Voice_bot"
+    "last_opened_file_path": "D:/GitHub/Poizon_RB_BOT/app/handlers.py"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -129,11 +129,20 @@
       <option name="project" value="LOCAL" />
       <updated>1717253320449</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chaging in openai_api">
+      <option name="closed" value="true" />
+      <created>1717255014776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717255014776</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+    <MESSAGE value="chaging in openai_api" />
+    <option name="LAST_COMMIT_MESSAGE" value="chaging in openai_api" />
   </component>
 </project>
