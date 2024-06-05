@@ -3,3 +3,6 @@ aiogram
 openai
 pydantic_settings
 aiohttp
+sqlalchemy
+asyncpg
+alembic
